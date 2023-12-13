@@ -1,0 +1,4 @@
+.pageContainer {
+    display: flex;
+    padding: var(--3, 24px);
+}
